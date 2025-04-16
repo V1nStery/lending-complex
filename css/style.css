@@ -234,7 +234,7 @@ body {
     content: '';
     position: absolute;
     width: 73px;
-    height: 10px;
+    height: 15px;
     left: 0;
     border-bottom: 1px solid gray;
 }
